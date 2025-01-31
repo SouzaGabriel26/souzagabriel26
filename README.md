@@ -11,7 +11,7 @@ Always striving for clean, efficient, and well-structured code, I enjoy tackling
 - 💻 **Mid-Level Full Stack Engineer** at Lippaus Distribuidora (Heineken Official Distributor)  
 
 ### 🎓 **Education:**  
-- 🎓 **Bachelor's in Computer Science** @ FAESA - ES (2021 - 2024)  
+- 🎓 **Bachelor's in Computer Science** FAESA - ES (2021 - 2024)  
 
 ### 📩 **Let's connect!**  
 - 💼 **LinkedIn:** [linkedin.com/in/souzagabriel26](https://linkedin.com/in/souzagabriel26)  
