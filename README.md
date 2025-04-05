@@ -25,43 +25,65 @@ I enjoy working across the stack, tackling complex challenges, and building clea
 
 ### **Languages & Frameworks**  
 <p>
-  <img title="TypeScript" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
-  <img title="JavaScript" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
-  <img title="Node.js" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" />
-  <img title="Next.js" alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img title="React" alt="React" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
-  <img title="Express.js" alt="Express.js" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" />
-  <img title="NestJS" alt="NestJS" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" />
-  <img title="Solidity" alt="Solidity" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" />
+  <img title="TypeScript" alt="TypeScript" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
+  <img title="JavaScript" alt="JavaScript" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
+  <img title="Node.js" alt="Node.js" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" />
+  <img title="Next.js" alt="Next.js" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img title="React" alt="React" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
+  <img title="Express.js" alt="Express.js" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" />
+  <img title="NestJS" alt="NestJS" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" />
+  <img title="Solidity" alt="Solidity" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" />
 </p>
 
 ### **Databases & Cloud**  
 <p>
-  <img title="PostgreSQL" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
-  <img title="Prisma ORM" alt="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-  <img title="AWS" alt="AWS" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
-  <img title="Docker" alt="Docker" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+  <img title="PostgreSQL" alt="PostgreSQL" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
+  <img title="Prisma ORM" alt="Prisma" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+  <img title="AWS" alt="AWS" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" />
+  <img title="Docker" alt="Docker" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
 </p>
 
 ### **Dev & Testing**  
 <p>
-  <img title="Git" alt="Git" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
-  <img title="GitHub" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
-  <img title="CI/CD" alt="CI/CD" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" />
-  <img title="Jest" alt="Jest" width="30px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" />
-  <img title="Vitest" alt="Vitest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" />
+  <img title="Git" alt="Git" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" />
+  <img title="GitHub" alt="GitHub" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
+  <img title="CI/CD" alt="CI/CD" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" />
+  <img title="Jest" alt="Jest" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" />
+  <img title="Vitest" alt="Vitest" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" />
 </p>
+
+
 
 ---
 
 ## 📈 GitHub Stats  
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=souzagabriel26&show_icons=true&theme=dark" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzagabriel26&theme=dark&layout=compact" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=souzagabriel26&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzagabriel26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=souzagabriel26&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
