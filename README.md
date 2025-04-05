@@ -1,21 +1,23 @@
-# Hey there! I'm Gabriel Souza
+# Hey there! I'm Gabriel Souza 👋
 
 ## 👨‍💻 About Me  
+I'm a **Mid-Level Full Stack Engineer** passionate about building **scalable applications** with **TypeScript, Next.js, Node.js, and PostgreSQL**.  
+I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
-I'm a **Mid-Level Software Engineer** passionate about building **scalable and high-performance applications**.  
-I specialize in **TypeScript, Next.js, Node.js, and PostgreSQL**, creating robust solutions that seamlessly integrate **backend, frontend, and cloud technologies**.  
-I have experience developing **full-stack applications**, working with **blockchain**, and building modern UI components with **shadcn**.  
-Always striving for clean, efficient, and well-structured code, I enjoy tackling **complex challenges** and improving my technical skills.  
+🔧 Currently working at **Lippaus Distribuidora** (Heineken Official Distributor)  
+🎓 **Bachelor’s Degree in Computer Science** — FAESA - ES (2021 - 2024)
 
-### 📌 **Current Role:**  
-- 💻 **Mid-Level Full Stack Engineer** at Lippaus Distribuidora (Heineken Official Distributor)  
+## 🌐 Projects
 
-### 🎓 **Education:**  
-- 🎓 **Bachelor's in Computer Science** FAESA - ES (2021 - 2024)  
+### <a href="https://smart-translator-ai.vercel.app" target="_blank">Smart Translator (Live)</a>  
+> AI-powered translator leveraging **Google Gemini** to convert text between English and Portuguese, also generating contextual example phrases.  
+🎥 <a href="https://youtube.com/playlist?list=PL21OVMBXdJI7-WFSrWEE9VZ67NsVAdIw3&si=McRFxJUrwY9Zs6UK" target="_blank">Watch the Dev Playlist</a>
 
-### 📩 **Let's connect!**  
-- 💼 **LinkedIn:** [linkedin.com/in/souzagabriel26](https://linkedin.com/in/souzagabriel26)  
-- 📧 **Email:** [gabbriel.asouza2608@hotmail.com](mailto:gabbriel.asouza2608@hotmail.com)  
+### <a href="https://student-identification.vercel.app/" target="_blank">Decentralized Student ID (Live)</a>  
+> Secure student identification platform built on **Ethereum smart contracts**, enabling encrypted, verifiable IDs.
+
+### <a href="https://github.com/SouzaGabriel26/onde-ir" target="_blank">OndeIr – Social Network (WIP)</a>  
+> Fullstack social platform to **discover and review** restaurants, bars, and more — focused on curated food experiences.
 
 ---
 
@@ -52,7 +54,7 @@ Always striving for clean, efficient, and well-structured code, I enjoy tackling
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Stats  
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=souzagabriel26&show_icons=true&theme=dark" />
@@ -60,3 +62,10 @@ Always striving for clean, efficient, and well-structured code, I enjoy tackling
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzagabriel26&theme=dark&layout=compact" />
 </p>
+
+---
+
+## 📫 Connect with Me  
+
+- [LinkedIn](https://linkedin.com/in/souzagabriel26)
+- 📧 [Email](mailto:gabriel.asouza2608@hotmail.com)
