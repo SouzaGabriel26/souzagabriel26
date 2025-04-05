@@ -4,7 +4,7 @@
 I'm a **Mid-Level Full Stack Engineer** passionate about building **scalable applications** with **TypeScript, Next.js, Node.js, and PostgreSQL**.  
 I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
-🔧 Currently working at **Lippaus Distribuidora** (Heineken Official Distributor)  
+🔧 Currently working at **Lippaus** (Heineken Official Distributor)  
 🎓 **Bachelor’s Degree in Computer Science** — FAESA - ES (2021 - 2024)
 
 ## 🌐 Projects
