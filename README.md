@@ -1,7 +1,7 @@
 # Hey there! I'm Gabriel Souza 👋
 
 ## 👨‍💻 About Me  
-I'm a **Mid-Level Full Stack Engineer** passionate about building **scalable applications** with **TypeScript, Next.js, Node.js, and PostgreSQL**.  
+I'm a **Full Stack Engineer** passionate about building **scalable applications** with **TypeScript, Next.js, Node.js, and PostgreSQL**.  
 I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
 🔧 Currently working at **Lippaus** (Heineken Official Distributor)  
