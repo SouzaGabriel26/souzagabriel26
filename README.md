@@ -90,4 +90,4 @@ I enjoy working across the stack, tackling complex challenges, and building clea
 ## 📫 Connect with Me  
 
 - [LinkedIn](https://linkedin.com/in/souzagabriel26)
-- 📧 [Email](mailto:gabriel.asouza2608@hotmail.com)
+- 📧 [Email](mailto:gbsouzadeveloper@gmail.com)
