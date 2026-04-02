@@ -5,6 +5,7 @@ I'm a **Full Stack Engineer** passionate about building **scalable applications*
 I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
 🔧 Currently working at **GemHaus** (AI-powered real estate platform delivering market intelligence and detailed property analysis reports.)
+
 🎓 **Bachelor’s Degree in Computer Science** — FAESA - ES (2021 - 2024)
 
 ## 🌐 Projects
